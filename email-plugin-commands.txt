@@ -19,6 +19,7 @@ B) in your gmail side:
 1- Login to your gmail account through the web browser
 2- Go to https://www.google.com/settings/security/lesssecureapps and Turn On this feature.
 3- Go to https://accounts.google.com/DisplayUnlockCaptcha and click Continue.
+4-https://myaccount.google.com/apppasswords
 
 
 
